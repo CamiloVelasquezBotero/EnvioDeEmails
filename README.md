@@ -2,4 +2,4 @@
 
 Pagina que valida/comprueba emails antes de enviarlos.
 
-https://validacionemails.netlify.app/
+https://envio-de-emails-js.vercel.app/
